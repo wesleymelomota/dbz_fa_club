@@ -36,14 +36,7 @@ export default (props) => {
                                 <li><a class="dropdown-item" href="#">Em breve</a></li>*/}
                             </ul>
                         </li>
-                        <li class="menu-drop dropdown">
-                             <a  class="nav-link dropdown-toggle ">Noticias</a>
-                             <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                                 <li>
-                                 <Link class="dropdown-item" to="">Em breve</Link>
-                                 </li>
-                             </ul>
-                        </li>
+                        
                         
                     </ul>
         </nav>
