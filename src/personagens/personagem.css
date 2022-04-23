@@ -67,7 +67,7 @@ h2{
 .person div > img {
     width: 100%;
     height: 100%;
-    margin-left: 30px;
+    /*margin-left: 30px;*/
     border: 1px solid black;
 }
 

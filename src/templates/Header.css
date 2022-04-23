@@ -43,3 +43,10 @@
     padding: 10px;
 }
 /*config texto*/
+
+@media (max-width: 481px){
+    .header h1 {
+        color: #fff;
+        padding: 10px;
+    }
+}
