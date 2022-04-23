@@ -1,0 +1,20 @@
+.content {
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*//*modificado 18/04  hs 11:57*/
+    font-family: 'Courier New', Courier, monospace;
+    /*background-image: url('../assets/imagens/kakarot.jpg');*/
+    /*background-image: url('./goku-sheylon.jpg');*/
+    background: linear-gradient(to right, #ff512f, #f09819);
+    /*background-size: 100% 100%;*/
+    
+}
+
+@media(max-width: 573px){
+    .content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to right, #ff512f, #f09819);
+    }
+}

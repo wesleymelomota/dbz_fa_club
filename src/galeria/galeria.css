@@ -1,0 +1,65 @@
+.galeria {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 3px;
+    padding: 2px;
+}
+/*
+para deixar cada imagem com efeito de vidro e o content center
+.cont-flex{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}  
+.glass{
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    overflow: hidden;
+    box-shadow: 0px 0px 15px #0004;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.black{
+    color: black;
+    text-align: center;
+}
+*/
+.propimg {
+    border: 1px solid black;
+    margin: 5px;
+    margin-top: 3px;
+}
+
+.cont-item{
+    margin-top: 8px;
+    margin: 4px;
+    padding: 3
+}
+
+@media(max-width: 573px){
+    .propimg {
+        border: 1px solid black;
+        margin: 5px;
+        
+    }
+
+    .galeria {
+        margin-top: 5px;
+    }
+    
+    .cont-item{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: 8px;
+        margin: 4px;
+        padding: 3
+        
+    }    
+}

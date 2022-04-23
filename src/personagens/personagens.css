@@ -1,0 +1,22 @@
+/*
+arquivo css pricipal. ao modificar qualquer elemento, isso se refletirar em todos componentes
+contendo o Personagens
+*/
+.personagens {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    /*height: 100vh;incluido 17/04 hs 11:27*/
+}
+
+.personagens h1{
+    color: #fff;
+}
+
+.personagens h2{
+    color: #fff;
+}
+
+.personagens .descricao p{
+    color: #fff;
+}
