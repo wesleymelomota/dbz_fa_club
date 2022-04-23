@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dbz_fa_club/static/css/main.e0ea6fa9.css",
+    "main.css": "/dbz_fa_club/static/css/main.a4778775.css",
     "main.js": "/dbz_fa_club/static/js/main.9ba04dcb.js",
     "static/js/787.54c5121c.chunk.js": "/dbz_fa_club/static/js/787.54c5121c.chunk.js",
     "static/media/logo-sheylon.png": "/dbz_fa_club/static/media/logo-sheylon.294c268931dca47c861a.png",
@@ -74,12 +74,12 @@
     "static/media/logo-in.png": "/dbz_fa_club/static/media/logo-in.bf0916a91f3a28fae04d.png",
     "static/media/androids.jpg": "/dbz_fa_club/static/media/androids.ecb532040f1c67b12a60.jpg",
     "index.html": "/dbz_fa_club/index.html",
-    "main.e0ea6fa9.css.map": "/dbz_fa_club/static/css/main.e0ea6fa9.css.map",
+    "main.a4778775.css.map": "/dbz_fa_club/static/css/main.a4778775.css.map",
     "main.9ba04dcb.js.map": "/dbz_fa_club/static/js/main.9ba04dcb.js.map",
     "787.54c5121c.chunk.js.map": "/dbz_fa_club/static/js/787.54c5121c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0ea6fa9.css",
+    "static/css/main.a4778775.css",
     "static/js/main.9ba04dcb.js"
   ]
 }
