@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dbz_fa_club/static/css/main.2a740b20.css",
-    "main.js": "/dbz_fa_club/static/js/main.c21d9c83.js",
+    "main.css": "/dbz_fa_club/static/css/main.e0ea6fa9.css",
+    "main.js": "/dbz_fa_club/static/js/main.9ba04dcb.js",
     "static/js/787.54c5121c.chunk.js": "/dbz_fa_club/static/js/787.54c5121c.chunk.js",
     "static/media/logo-sheylon.png": "/dbz_fa_club/static/media/logo-sheylon.294c268931dca47c861a.png",
     "static/media/goku-ssj1.jpg": "/dbz_fa_club/static/media/goku-ssj1.444c2be139b81be12b63.jpg",
@@ -74,12 +74,12 @@
     "static/media/logo-in.png": "/dbz_fa_club/static/media/logo-in.bf0916a91f3a28fae04d.png",
     "static/media/androids.jpg": "/dbz_fa_club/static/media/androids.ecb532040f1c67b12a60.jpg",
     "index.html": "/dbz_fa_club/index.html",
-    "main.2a740b20.css.map": "/dbz_fa_club/static/css/main.2a740b20.css.map",
-    "main.c21d9c83.js.map": "/dbz_fa_club/static/js/main.c21d9c83.js.map",
+    "main.e0ea6fa9.css.map": "/dbz_fa_club/static/css/main.e0ea6fa9.css.map",
+    "main.9ba04dcb.js.map": "/dbz_fa_club/static/js/main.9ba04dcb.js.map",
     "787.54c5121c.chunk.js.map": "/dbz_fa_club/static/js/787.54c5121c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a740b20.css",
-    "static/js/main.c21d9c83.js"
+    "static/css/main.e0ea6fa9.css",
+    "static/js/main.9ba04dcb.js"
   ]
 }
